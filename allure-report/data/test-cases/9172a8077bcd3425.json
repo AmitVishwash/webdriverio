@@ -1,0 +1,62 @@
+{
+  "uid" : "9172a8077bcd3425",
+  "name" : "Should login with valid credentials and logout successfuly",
+  "fullName" : "Heroku App Login Module.Should login with valid credentials and logout successfuly",
+  "historyId" : "2615a0b3bf8da14a495880cafec0fbd8",
+  "time" : {
+    "start" : 1654182546850,
+    "stop" : 1654182547600,
+    "duration" : 750
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read properties of undefined (reading 'isDevTools')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'isDevTools')\n                    at findElement (C:\\WebDriverIO\\node_modules\\webdriverio\\build\\utils\\index.js:216:15)\n                    at $ (C:\\WebDriverIO\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:43)\n                    at SecurePage.get flashAlert [as flashAlert] (C:\\WebDriverIO\\test\\pageObjects\\secure.page.js:14:16)\n                    at Context.<anonymous> (C:\\WebDriverIO\\test\\specs\\example.e2e.js:40:33)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login with valid credentials and logout successfuly"
+  }, {
+    "name" : "package",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9172a8077bcd3425.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

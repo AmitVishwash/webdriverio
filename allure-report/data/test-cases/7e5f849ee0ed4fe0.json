@@ -1,0 +1,79 @@
+{
+  "uid" : "7e5f849ee0ed4fe0",
+  "name" : "Should not login with invalid credentials(Invalid username and Invalid password)",
+  "fullName" : "Heroku App Login Module.Should not login with invalid credentials(Invalid username and Invalid password)",
+  "historyId" : "d6132d3cbad2c598fae9e195f313765c",
+  "time" : {
+    "start" : 1654184280346,
+    "stop" : 1654184280972,
+    "duration" : 626
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should not login with invalid credentials(Invalid username and Invalid password)"
+  }, {
+    "name" : "package",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "edd3318876038268",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of undefined (reading 'isDevTools')",
+      "time" : {
+        "start" : 1654182546203,
+        "stop" : 1654182546849,
+        "duration" : 646
+      }
+    }, {
+      "uid" : "d60cb21f508ad404",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654179970509,
+        "stop" : 1654179971547,
+        "duration" : 1038
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e5f849ee0ed4fe0.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

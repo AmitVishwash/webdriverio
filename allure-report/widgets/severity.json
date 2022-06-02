@@ -1,0 +1,51 @@
+[ {
+  "uid" : "9875e7c7b0beb828",
+  "name" : "Should not login with invalid credentials(Valid username and Invalid password)",
+  "time" : {
+    "start" : 1654184279123,
+    "stop" : 1654184279735,
+    "duration" : 612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a28c3375d297af29",
+  "name" : "Should login with valid credentials",
+  "time" : {
+    "start" : 1654184276789,
+    "stop" : 1654184279123,
+    "duration" : 2334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee8a90a6bf7f9a2e",
+  "name" : "Should login with valid credentials and logout successfuly",
+  "time" : {
+    "start" : 1654184280972,
+    "stop" : 1654184281895,
+    "duration" : 923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ba3da8a62a7bfb9",
+  "name" : "Should not login with invalid credentials(Invalid username and Valid password)",
+  "time" : {
+    "start" : 1654184279736,
+    "stop" : 1654184280346,
+    "duration" : 610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e5f849ee0ed4fe0",
+  "name" : "Should not login with invalid credentials(Invalid username and Invalid password)",
+  "time" : {
+    "start" : 1654184280346,
+    "stop" : 1654184280972,
+    "duration" : 626
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

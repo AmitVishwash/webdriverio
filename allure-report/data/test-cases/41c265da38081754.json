@@ -1,0 +1,60 @@
+{
+  "uid" : "41c265da38081754",
+  "name" : "Should not login with invalid credentials(Valid username and Invalid password)",
+  "fullName" : "Heroku App Login Module.Should not login with invalid credentials(Valid username and Invalid password)",
+  "historyId" : "40d0f83508137347490906d827512eb1",
+  "time" : {
+    "start" : 1654179969014,
+    "stop" : 1654179969690,
+    "duration" : 676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should not login with invalid credentials(Valid username and Invalid password)"
+  }, {
+    "name" : "package",
+    "value" : "Heroku App Login Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41c265da38081754.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

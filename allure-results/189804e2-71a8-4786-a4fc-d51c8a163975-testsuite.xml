@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1654179966714' stop='1654179971548'>
+    <name>Heroku App Login Module</name>
+    <title>Heroku App Login Module</title>
+    <test-cases>
+        <test-case start='1654179966715' status='passed' stop='1654179969014'>
+            <name>Should login with valid credentials</name>
+            <title>Should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1654179969014' status='passed' stop='1654179969690'>
+            <name>Should not login with invalid credentials(Valid username and Invalid password)</name>
+            <title>Should not login with invalid credentials(Valid username and Invalid password)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1654179969691' status='passed' stop='1654179970509'>
+            <name>Should not login with invalid credentials(Invalid username and Valid password)</name>
+            <title>Should not login with invalid credentials(Invalid username and Valid password)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1654179970509' status='passed' stop='1654179971547'>
+            <name>Should not login with invalid credentials(Invalid username and Invalid password)</name>
+            <title>Should not login with invalid credentials(Invalid username and Invalid password)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
