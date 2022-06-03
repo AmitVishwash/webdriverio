@@ -20,7 +20,7 @@ async login(username,password){
 
 
 open(){
-    return super.open('login');
+    return super.open('/login');
 }
 }
 
